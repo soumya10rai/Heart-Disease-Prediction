@@ -42,8 +42,10 @@ This project predicts the presence of heart disease using machine learning algor
 - Python
 - Google Colab
 - Pandas, NumPy
+
 - scikit-learn
 - XGBoost
 - imbalanced-learn (for SMOTE)
 - Matplotlib & Seaborn (for visualizations)
 
+<img width="1321" alt="Screenshot 2025-06-17 at 8 52 00 PM" src="https://github.com/user-attachments/assets/297985ad-b8f0-4656-8f59-5a020292fc26" />
